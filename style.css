@@ -1,0 +1,23 @@
+.orange-highlight{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.div-style{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-bottom: 10px;
+}
+.div-style img{
+    width: 100%;
+}
+.link-text{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
