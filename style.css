@@ -84,5 +84,13 @@ h1{
     color: white;
     font-weight: 700;
 }
-
-
+.div-style4{
+    float: left;
+    margin:-18px;
+}
+.div-style4 img{
+    width: 30%;
+}
+#footer-side{
+    margin-left: 41%;  
+}
