@@ -1,13 +1,10 @@
 .orange-highlight{
     color: orange;
 }
-h1{
-    font-size: 40px;
-}
 .div-style{
     width: 40%;
     float: left;
-    margin-left: 2%;
+    margin-left: 8%;
     padding-bottom: 2%;
 }
 .div-style img{
@@ -53,7 +50,17 @@ section{
 .div-style3{
     width: 30%;
     float: left;
-    margin-left: 350px;
-    
+    margin-left: 350px;   
 }
+footer{
+    text-align: center;
+}
+#last-id{
+    font-size: 25px;
+}
+h1{
+    font-size: 40px;
+}
+
+
 
